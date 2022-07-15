@@ -37,10 +37,14 @@ default metric url：
 
 # other mysql binlog project
 
-## github
+## binlog-spread
+a tool assist developers  
 
-## gitee
+[gitee:binlog-spread ](https://gitee.com/youwen21/binlog-spread)
+> https://gitee.com/youwen21/binlog-spread
 
+[github:binlog-spread ](https://github.com/youwen21/binlog-spread)
+> https://github.com/youwen21/binlog-spread
 
 
 
