@@ -1,0 +1,6 @@
+.env
+config.env
+config.yaml
+config.toml
+storage
+!storage/logs/.gitkeep

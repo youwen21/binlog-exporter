@@ -1,0 +1,13 @@
+owen2020
+.vscode
+.idea
+.DS_Store
+.env
+config.env
+storage/*
+/models/*
+testing/storage
+tests/storage
+bin/*
+release/*
+*.zip
