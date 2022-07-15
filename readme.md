@@ -9,28 +9,13 @@ cp config.env.examples config.env and edit the config.env file before running
 #### github
 ```bash
 git clone git@github.com:youwen21/binlog-exporter.git
-cd binlog_exporter
-go build .
-./binlog_exporter
-
--------
-
-git clone git@github.com:youwen21/binlog-exporter.git
-cd binlog_exporter
-go run main.go
-
 ```
-
 #### gitee
 ```bash
 git clone git@gitee.com:youwen21/binlog-exporter.git
-cd binlog_exporter
-go build .
-./binlog_exporter
+```
 
--------
-
-git clone git@gitee.com:youwen21/binlog-exporter.git
+```bash
 cd binlog_exporter
 go run main.go
 

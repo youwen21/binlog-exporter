@@ -7,15 +7,16 @@
 编辑配置config.env文件中的配置项
 
 ### Building and running the exporter
+#### github
+```bash
+git clone git@github.com:youwen21/binlog-exporter.git
+```
+#### gitee
 ```bash
 git clone git@gitee.com:youwen21/binlog-exporter.git
-cd binlog_exporter
-go build .
-./binlog_exporter
+```
 
--------
-
-git clone git@gitee.com:youwen21/binlog-exporter.git
+```bash
 cd binlog_exporter
 go run main.go
 
