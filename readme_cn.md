@@ -37,7 +37,7 @@ go run main.go
 # other mysql binlog project
 
 ## binlog-spread 
-一个机遇binlog的开发辅助工具
+一个基于mysql binlog的开发出来的程序员辅助工具
 
 [gitee:binlog-spread ](https://gitee.com/youwen21/binlog-spread)
 > https://gitee.com/youwen21/binlog-spread
